@@ -32,7 +32,7 @@ sudo k3d  cluster start sandman
 
 
 https://octopus.com/blog/jenkins-helm-install-guide
-J7hbuGnusBeIlUjlbaM550
+Admin password for jenkins:  J7hbuGnusBeIlUjlbaM550
 instaled jenkins plugin for docker Docker API Plugin
 Docker Commons Plugin
 Docker Pipeline
