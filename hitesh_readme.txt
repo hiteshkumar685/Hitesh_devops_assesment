@@ -38,4 +38,5 @@ Docker Commons Plugin
 Docker Pipeline
 Docker Plugin
 docker-build-step
-sudo kubectl --namespace default port-forward svc/myjenkins 8081:8080 
+1 Add docker hub credentials in jenkins
+2 Go to build and run jenkins pipline sample service
